@@ -86,4 +86,5 @@ int main()
 {
     Tree<int> tree{{1, 2, 3, 4, 5}};
     tree.PrintInOrder();
+    return 0;
 }
